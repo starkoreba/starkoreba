@@ -1,4 +1,4 @@
-🔭 I’m currently working on my portfolio<br>
+🔭 I’m currently working on find an internship<br>
 🌱 I’m currently learning Rails, React and Node.js<br>
 💬 Ask me about Co-x3<br>
 
