@@ -1,3 +1,5 @@
+Hi, I'm a student at Epitech and looking for an apprenticeship.
+
 🔭 I’m currently working on a project "Comptoir Exothique" (e-commerce)<br>
 🌱 I’m currently learning Rails, React and Node.js<br>
 💬 Ask me about the Co-x3 family<br>
