@@ -1,4 +1,4 @@
-Hi, I'm a student at Epitech and looking for an apprenticeship.
+# Hi, I'm known as Stark on the internet
 
 🔭 I’m currently working on find an apprenticeship<br>
 🌱 I’m currently learning C<br>
