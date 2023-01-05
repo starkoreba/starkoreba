@@ -1,6 +1,6 @@
-# Hi, I'm known as Stark on the internet
+# Welcome
 
-🔭 I’m currently working on find an apprenticeship<br>
+🔭 I’m currently looking for an apprenticeship<br>
 🌱 I’m currently learning C<br>
 💬 Ask me about the Co-x3 family<br>
 
