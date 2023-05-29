@@ -1,7 +1,7 @@
 # Welcome
 
 🔭 I’m currently looking for an apprenticeship<br>
-🌱 I’m currently learning C<br>
+🌱 I’m currently learning RedwoodJS<br>
 💬 Ask me about the Co-x3 family!<br>
 
 # 💻 Tech Stack:
