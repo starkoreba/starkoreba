@@ -2,7 +2,7 @@
 
 🤝 I’m looking for help with finding an <b>apprenticeship</b><br>
 🔭 I’m currently working on the DGC (Digital Gardening Collective)<br>
-🌱 I’m currently learning RedwoodJS (so TypeScript, React, Chakra UI all in once)<br>
+🌱 I’m currently learning NextJS, ReactJS and TypeScript<br>
 💬 Ask me about the Co-x3 family!<br>
 
 # 💻 Tech Stack:
