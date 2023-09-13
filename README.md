@@ -1,6 +1,6 @@
 # Welcome
 
-🤝 I’m looking for help with finding an <b>apprenticeship</b><br>
+🤝 I’m a student at Epitech in an <b>apprenticeship</b> in Davidson Mipy<br>
 🔭 I’m currently working on professional projects<br>
 🌱 I’m currently learning Angular<br>
 
