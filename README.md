@@ -1,6 +1,6 @@
 # Welcome
 
-🤝 I’m a software developper
+🤝 I’m a software developper<br>
 🔭 I’m currently working on professional projects<br>
 🌱 I’m currently learning Angular<br>
 
